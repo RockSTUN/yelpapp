@@ -20,7 +20,7 @@ function ResultsShowScreen(props){
             method: 'GET',
             headers: {
                 accept: 'application/json',
-                Authorization: 'Bearer ApbtQK07Zd6_pMsawGpvELiVvlLAyRCUE7GVFFXRfDca8rieDtJzUTbSwv_gQCzp7HLjeAJpxfRoszDKktNXaKeH8fYo7cQNYTHu6N_ZF6H9eRN1_PeHwssQPlGMY3Yx'
+                Authorization: 'Bearer API KEY'
                 }
             
         };
